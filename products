@@ -1,15 +1,4 @@
 [
-
-  {
-    "title": "Asparagus",
-    "type": "vegetable",
-    "description": "Asparagus with ham on the wooden table",
-    "filename": "2.jpg",
-    "height": 450,
-    "width": 299,
-    "price": 18.95,
-    "rating": 3
-  },
   {
     "title": "Green smoothie",
     "type": "dairy",
